@@ -1,0 +1,5 @@
+delete 刪除
+enter scores 輸入名字 分數
+lookup 輸入要存入的地址(錢包)
+students 輸入地址
+會顯示 名字 是否及格 分數 地址
